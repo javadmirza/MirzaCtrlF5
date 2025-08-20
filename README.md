@@ -2,9 +2,18 @@
 
 این اکستنشن گزینه "تخلیه کش (Ctrl+F5)" را به منوی راست کلیک مرورگر کروم اضافه می‌کند.
 
+**[English Version](README_EN.md) | [نسخه فارسی](README.md)**
+
 ## ⭐ اگر این پروژه برایتان مفید بود، لطفاً ستاره دهید!
 
 اگر این اکستنشن به شما کمک کرده، لطفاً با دادن ستاره ⭐ از ما حمایت کنید. این کار انگیزه‌ای برای ادامه توسعه پروژه‌های رایگان است.
+
+## 📊 آمار پروژه
+
+![GitHub stars](https://img.shields.io/github/stars/yourusername/ctrl-f5-extension)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/ctrl-f5-extension)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/ctrl-f5-extension)
+![GitHub license](https://img.shields.io/github/license/yourusername/ctrl-f5-extension)
 
 ## 🦥 محصول تنبلی من!
 
@@ -146,10 +155,3 @@
 **⭐ اگر این پروژه برایتان مفید بود، لطفاً ستاره دهید تا انگیزه‌ای برای ادامه کار باشد!**
 
 **🦥 به یاد داشته باشید: تنبلی هوشمندانه، کلید موفقیت است! 😄**
-
-## 📊 آمار پروژه
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ctrl-f5-extension)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ctrl-f5-extension)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ctrl-f5-extension)
-![GitHub license](https://img.shields.io/github/license/yourusername/ctrl-f5-extension)
