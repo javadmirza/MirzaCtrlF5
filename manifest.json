@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Ctrl+F5 Context Menu",
+  "version": "1.0",
+  "description": "اضافه کردن گزینه Ctrl+F5 به منوی راست کلیک",
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
